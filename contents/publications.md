@@ -10,8 +10,7 @@
 }
 </style>
 
-<div style="font-family: '宋体'">
-- <span style="font-weight: bold">上海算酷信息科技有限公司</span>， 数据分析师， 2023.03至今
+- <div style="font-family: '宋体'"><span style="font-weight: bold">上海算酷信息科技有限公司</span>， 数据分析师， 2023.03至今
 
   - 使用勤哲Excel服务器创建表单填报模板，通过用户填报将数据写入SQLserver数据库；
   - 通过Tableau链接SQLserver数据库，根据甲方需求分析数据，生成对应报表；
