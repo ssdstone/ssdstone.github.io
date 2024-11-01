@@ -11,7 +11,7 @@
 </style>
 
 <div style="font-family: '宋体'">
-- **<font color="black">上海算酷信息科技有限公司</font>**， 数据分析师， 2023.03至今
+- <span style="font-weight: bold">上海算酷信息科技有限公司</span>， 数据分析师， 2023.03至今
 
   - 使用勤哲Excel服务器创建表单填报模板，通过用户填报将数据写入SQLserver数据库；
   - 通过Tableau链接SQLserver数据库，根据甲方需求分析数据，生成对应报表；
@@ -20,7 +20,7 @@
  
  ***
  
-- **<font color="black">河南八六三软件股份有限公司</font>**， 数据开发， 2021.10-2023.01
+- <span style="font-weight: bold">河南八六三软件股份有限公司</span>， 数据开发， 2021.10-2023.01
 
   - 使用Python爬虫爬取所需数据，写入数据库，使用Sqoop完成MySQL与Hadoop环境的数据传输工作；
   - 参与数据平台搭建、优化及升级工作；
