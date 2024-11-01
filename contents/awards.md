@@ -1,9 +1,7 @@
-- First-prize Academic Scholarship, 2023.
+- 校级奖学金， 2021.10。
 
-- Freshman Academic Scholarship, 2022.
+- 计算机程序设计员，三级/高级工。
 
-- Excellent Graduation Project of Jiangsu Province, 2022.
+- 企业人力资源管理师，四级/中级工。
 
-- First-prize Enterprise Scholarship, 2021.
-
-- First-prize Academic Scholarship, 2019.
+- 机动车驾驶证 C1。

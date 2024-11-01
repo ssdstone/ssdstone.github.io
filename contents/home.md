@@ -13,6 +13,6 @@ ssdstone@yeah.net
 B.E., Data Science and Big Data Technology, Zhengzhou College of Finance and Economics, 2018—2022.
 
 #### Role - 角色
-数据开发，数据分析。
+数据开发，数据分析。\
 Data Development, Data Analysis.
 
